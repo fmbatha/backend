@@ -1,1 +1,1 @@
-import * as all from './src';
+import './src';
