@@ -8,14 +8,14 @@
   },
   "test": {
     "username": "root",
-    "password": "key,
+    "password": "key",
     "database": "scheduling_app",
     "host": "localhost",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "key,
+    "password": "key",
     "database": "scheduling_app",
     "host": "localhost",
     "dialect": "mysql"
